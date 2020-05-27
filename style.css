@@ -1,0 +1,12 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+.container {padding:0.5rem;}
+header {
+  padding: 1.5rem;
+  background-color: blue;
+}
+header ul li {
+  list-style: none;
+}
+header ul li a {
+  color: white;
+}
